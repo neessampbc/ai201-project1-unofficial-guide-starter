@@ -1,9 +1,11 @@
 # Professor Review RAG System
-**Grounded Q&A over student professor reviews**
+_**Grounded Q&A over student professor reviews**_
+
+**Demo: https://drive.google.com/file/d/1GkyZjLBVZAPScgDx0SGT0mjGKVebX6Jb/view?usp=sharing**
 
 A Retrieval-Augmented Generation (RAG) system that answers plain-language questions about **CUNY Hunter College professors** using student reviews, with grounded answers and source citations.
 
-> **Data note:** The review corpus is **synthetic** — fictional professor names paired with real Hunter departments/course codes, created for this educational project. Every file is labeled as synthetic so no fabricated opinions are attributed to real people. The pipeline is identical to one run on real collected reviews.
+> **Data note:** The review corpus is **synthetic**: fictional professor names paired with real Hunter departments/course codes, created for this educational project. Every file is labeled as synthetic so no fabricated opinions are attributed to real people. The pipeline is identical to one run on real collected reviews.
 
 ## Quickstart
 

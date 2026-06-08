@@ -1,4 +1,5 @@
-# The Unofficial Guide — Project 1
+# Professor Review RAG System
+**Grounded Q&A over student professor reviews**
 
 A Retrieval-Augmented Generation (RAG) system that answers plain-language questions about **CUNY Hunter College professors** using student reviews, with grounded answers and source citations.
 

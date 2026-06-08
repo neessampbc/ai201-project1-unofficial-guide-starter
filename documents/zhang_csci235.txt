@@ -1,0 +1,20 @@
+Professor Wenjie Zhang — Computer Science (CSCI 235, Software Analysis and Design I) — CUNY Hunter College
+NOTE: Synthetic student reviews created for an educational RAG project. These are not real reviews of a real person.
+
+Rating: 3/5 | Difficulty: 5/5 | Would take again: Maybe
+Zhang's class is all about the C++ projects. There are four big projects and they are each worth more than the exams combined. The linked list and hash table projects took me 20+ hours each. Start the day they are assigned.
+
+Rating: 2/5 | Difficulty: 5/5 | Would take again: No
+Professor Zhang holds you to a very high standard on code style. You lose points for memory leaks even if the program works. Valgrind has to be clean. It is a wake-up call after CSCI 135.
+
+Rating: 4/5 | Difficulty: 4/5 | Would take again: Yes
+A lot of students call her "Z" because her last name is hard for some people to pronounce. Z is demanding but she genuinely cares — her office hours saved my hash table project. You will learn more here than in any other 200-level CS course.
+
+Rating: 3.5/5 | Difficulty: 5/5 | Would take again: Maybe
+The exams are conceptual (Big-O analysis, choosing the right data structure) while the projects are pure implementation. Budget your time: the projects will eat your whole week if you let them.
+
+Rating: 5/5 | Difficulty: 4/5 | Would take again: Yes
+Hardest class I took but the most rewarding. Zhang's feedback on the project autograder is detailed. There is no curve, so the grade you earn is the grade you get.
+
+Rating: 2.5/5 | Difficulty: 5/5 | Would take again: No
+Be warned: late projects are not accepted at all, no partial submissions. I missed the BST project deadline by an hour and got a zero. The workload is unforgiving if you have other heavy classes.

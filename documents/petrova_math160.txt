@@ -1,0 +1,17 @@
+Professor Olga Petrova — Mathematics & Statistics (MATH 160, Introduction to Statistics) — CUNY Hunter College
+NOTE: Synthetic student reviews created for an educational RAG project. These are not real reviews of a real person.
+
+Rating: 4/5 | Difficulty: 2/5 | Would take again: Yes
+Petrova's stats class is very doable for non-math majors. Most of the work is in R using RStudio, and she gives you starter scripts. No prior coding needed. The hardest part is interpreting p-values, not the math itself.
+
+Rating: 4.5/5 | Difficulty: 2/5 | Would take again: Yes
+Great class to satisfy the math gen-ed requirement. Open-note quizzes every week. She lets you bring a formula sheet to exams, so memorization is not an issue. Focus on understanding when to use each test.
+
+Rating: 3/5 | Difficulty: 3/5 | Would take again: Maybe
+The R labs trip people up if you have never used a command line. Petrova will help you in office hours but you have to ask. Conceptually the course is light; technically the software is the speed bump.
+
+Rating: 5/5 | Difficulty: 2/5 | Would take again: Yes
+Easiest A I got at Hunter, but I also genuinely learned how to read a study critically. Petrova uses real news headlines to explain correlation vs. causation. Quizzes are open note and exams are formula-sheet allowed.
+
+Rating: 3.5/5 | Difficulty: 2/5 | Would take again: Yes
+Light workload. One R lab a week and a short quiz. The final project is a small data analysis on a dataset you pick. Petrova grades the project on effort and clear writing more than fancy statistics.

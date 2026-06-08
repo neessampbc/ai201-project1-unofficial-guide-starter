@@ -1,0 +1,20 @@
+Professor Daniel Rivera — Computer Science (CSCI 135, Introduction to Programming) — CUNY Hunter College
+NOTE: Synthetic student reviews created for an educational RAG project. These are not real reviews of a real person.
+
+Rating: 4.5/5 | Difficulty: 3/5 | Would take again: Yes
+Rivera's exams come almost entirely from his lecture slides, not the Savitch textbook. If you go to every lecture and rewrite the slide code by hand, you will be fine. He curves the midterm but not the final, so don't slack off at the end.
+
+Rating: 4/5 | Difficulty: 3/5 | Would take again: Yes
+Attendance matters way more than the readings in this class. Half the exam questions are basically the in-class examples with the numbers changed. I almost never opened the textbook and still got a B+.
+
+Rating: 2/5 | Difficulty: 4/5 | Would take again: No
+The labs are graded harshly by the TAs and partial credit is rare. Rivera himself is great in lecture but if your code doesn't compile on Gradescope you get a zero, which felt brutal for an intro class.
+
+Rating: 5/5 | Difficulty: 3/5 | Would take again: Yes
+Best intro professor in the CS department. Office hours are packed but worth it. He explains pointers and recursion better than any YouTube video. Midterm was curved by almost a full letter grade.
+
+Rating: 3.5/5 | Difficulty: 3/5 | Would take again: Yes
+Fair grader overall. The weekly Gradescope autograder assignments are where most of your points come from. Start them early because the late penalty is 10% per day and it adds up fast.
+
+Rating: 4/5 | Difficulty: 2/5 | Would take again: Yes
+If you have any programming background this class will feel easy. Rivera moves slowly through loops and arrays. The exams are predictable: study the slides, redo the lecture examples, and you'll do well.
